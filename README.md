@@ -45,16 +45,10 @@ Zdravy Zivot Web App is a dynamic web application designed to promote and facili
 - HTML
 - CSS
 
-## Contributors
-
-- [Your Name](https://github.com/yourusername)
-- [Contributor 1](https://github.com/contributor1)
-- [Contributor 2](https://github.com/contributor2)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
-For any issues or inquiries, please contact [support@zdravyzivotapp.com](mailto:support@zdravyzivotapp.com).
+For any issues or inquiries, please contact [mirkobasista@gmail.com](mailto:mirkobasista@gmail.com).
