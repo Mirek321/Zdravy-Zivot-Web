@@ -1,5 +1,5 @@
 # Zdravy Zivot Web App
-zdravyzivot.6f.sk
+www.zdravyzivot.6f.sk
 ---
 
 ## Description
